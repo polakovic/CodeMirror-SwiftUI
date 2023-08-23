@@ -36,7 +36,7 @@ public struct CodeView: RepresentableView {
   var onContentChange: ((String) -> ())?
   
   
-  public init(theme: CodeViewTheme = CodeViewTheme.materialPalenight,
+  public init(theme: CodeViewTheme = CodeViewTheme.default,
               code: Binding<String>,
               mode: Mode,
               fontSize: Int = 12,
