@@ -26,7 +26,7 @@ public enum CodeViewTheme: String, CaseIterable {
   case friendshipBracelet = "friendship-bracelet"
   case classicModified = "classic-modified"
   case amy = "amy"
-  case `default` = "demo"
+  case `default` = "default"
   case rdrak = "rdark"
   case espresso = "espresso"
   case sunburst = "sunburst"
