@@ -108,6 +108,8 @@
 
 /* DEFAULT THEME */
 
+.cm-s-.cm-s-default.CodeMirror {background-color: transparent; color: black;}
+.cm-s-.cm-s-default .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
 .cm-s-default .cm-header {color: blue;}
 .cm-s-default .cm-quote {color: #090;}
 .cm-negative {color: #d44;}
