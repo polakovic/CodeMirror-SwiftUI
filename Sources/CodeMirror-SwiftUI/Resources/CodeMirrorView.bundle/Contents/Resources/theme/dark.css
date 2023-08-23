@@ -1,0 +1,95 @@
+.cm-s-dark-0.CodeMirror {background-color: transparent; color: white;}
+.cm-s-dark-0 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-dark-0 .cm-operator,
+.cm-s-dark-0 .cm-keyword { }
+.cm-s-dark-0 .cm-atom {color: lightgreen;}
+.cm-s-dark-0 .cm-number {color: lightgreen;}
+.cm-s-dark-0 .cm-def,
+.cm-s-dark-0 .cm-variable,
+.cm-s-dark-0 .cm-punctuation,
+.cm-s-dark-0 .cm-property,
+.cm-s-dark-0 .cm-variable-2,
+.cm-s-dark-0 .cm-variable-3,
+.cm-s-dark-0 .cm-type {color: lightblue;}
+.cm-s-dark-0 .cm-comment {color: darkgray }
+.cm-s-dark-0 .cm-string,
+.cm-s-dark-0 .cm-string-2 {color: lightpink;}
+.cm-s-dark-0 .syntax-error {border: solid 1px red}
+.cm-s-dark-0 .CodeMirror-cursor {border-left: 1px solid yellow;}
+
+
+.cm-s-dark-1.CodeMirror {background-color: transparent; color: white;}
+.cm-s-dark-1 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-dark-1 .cm-operator,
+.cm-s-dark-1 .cm-keyword { }
+.cm-s-dark-1 .cm-atom {color: lightgreen;}
+.cm-s-dark-1 .cm-number {color: lightgreen;}
+.cm-s-dark-1 .cm-def,
+.cm-s-dark-1 .cm-variable,
+.cm-s-dark-1 .cm-punctuation,
+.cm-s-dark-1 .cm-property,
+.cm-s-dark-1 .cm-variable-2,
+.cm-s-dark-1 .cm-variable-3,
+.cm-s-dark-1 .cm-type {color: olive;}
+.cm-s-dark-1 .cm-comment {color: darkgray }
+.cm-s-dark-1 .cm-string,
+.cm-s-dark-1 .cm-string-2 {color: lightgreen;}
+.cm-s-dark-1 .syntax-error {border: solid 1px red}
+.cm-s-dark-1 .CodeMirror-cursor {border-left: 1px solid yellow;}
+
+.cm-s-dark-2.CodeMirror {background-color: transparent; color: white;}
+.cm-s-dark-2 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-dark-2 .cm-operator,
+.cm-s-dark-2 .cm-keyword { }
+.cm-s-dark-2 .cm-atom {color: red;}
+.cm-s-dark-2 .cm-number {color: red;}
+.cm-s-dark-2 .cm-def,
+.cm-s-dark-2 .cm-variable,
+.cm-s-dark-2 .cm-punctuation,
+.cm-s-dark-2 .cm-property,
+.cm-s-dark-2 .cm-variable-2,
+.cm-s-dark-2 .cm-variable-3,
+.cm-s-dark-2 .cm-type {color: violet;}
+.cm-s-dark-2 .cm-comment {color: darkgray }
+.cm-s-dark-2 .cm-string,
+.cm-s-dark-2 .cm-string-2 {color: red;}
+.cm-s-dark-2 .syntax-error {border: solid 1px red}
+.cm-s-dark-2 .CodeMirror-cursor {border-left: 1px solid yellow;}
+
+.cm-s-dark-3.CodeMirror {background-color: transparent; color: white;}
+.cm-s-dark-3 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-dark-3 .cm-operator,
+.cm-s-dark-3 .cm-keyword { }
+.cm-s-dark-3 .cm-atom {color: cyan;}
+.cm-s-dark-3 .cm-number {color: cyan;}
+.cm-s-dark-3 .cm-def,
+.cm-s-dark-3 .cm-variable,
+.cm-s-dark-3 .cm-punctuation,
+.cm-s-dark-3 .cm-property,
+.cm-s-dark-3 .cm-variable-2,
+.cm-s-dark-3 .cm-variable-3,
+.cm-s-dark-3 .cm-type {color: royalblue;}
+.cm-s-dark-3 .cm-comment {color: darkgray }
+.cm-s-dark-3 .cm-string,
+.cm-s-dark-3 .cm-string-2 {color: cyan;}
+.cm-s-dark-3 .syntax-error {border: solid 1px red}
+.cm-s-dark-3 .CodeMirror-cursor {border-left: 1px solid yellow;}
+
+.cm-s-dark-4.CodeMirror {background-color: transparent; color: white;}
+.cm-s-dark-4 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-dark-4 .cm-operator,
+.cm-s-dark-4 .cm-keyword { }
+.cm-s-dark-4 .cm-atom {color: orange;}
+.cm-s-dark-4 .cm-number {color: orange;}
+.cm-s-dark-4 .cm-def,
+.cm-s-dark-4 .cm-variable,
+.cm-s-dark-4 .cm-punctuation,
+.cm-s-dark-4 .cm-property,
+.cm-s-dark-4 .cm-variable-2,
+.cm-s-dark-4 .cm-variable-3,
+.cm-s-dark-4 .cm-type {color: yellow;}
+.cm-s-dark-4 .cm-comment {color: darkgray }
+.cm-s-dark-4 .cm-string,
+.cm-s-dark-4 .cm-string-2 {color: orange;}
+.cm-s-dark-4 .syntax-error {border: solid 1px red}
+.cm-s-dark-4 .CodeMirror-cursor {border-left: 1px solid yellow;}

@@ -1,0 +1,89 @@
+.cm-s-light-0.CodeMirror {background-color: transparent; color: black;}
+.cm-s-light-0 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-light-0 .cm-operator,
+.cm-s-light-0 .cm-keyword { }
+.cm-s-light-0 .cm-atom {color: darkgreen;}
+.cm-s-light-0 .cm-number {color: darkgreen;}
+.cm-s-light-0 .cm-def,
+.cm-s-light-0 .cm-variable,
+.cm-s-light-0 .cm-punctuation,
+.cm-s-light-0 .cm-property,
+.cm-s-light-0 .cm-variable-2,
+.cm-s-light-0 .cm-variable-3,
+.cm-s-light-0 .cm-type {color: darkblue;}
+.cm-s-light-0 .cm-comment {color: darkgray }
+.cm-s-light-0 .cm-string,
+.cm-s-light-0 .cm-string-2 {color: darkred;}
+.cm-s-light-0 .syntax-error {border: solid 1px red}
+
+.cm-s-light-1.CodeMirror {background-color: transparent; color: black;}
+.cm-s-light-1 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-light-1 .cm-operator,
+.cm-s-light-1 .cm-keyword { }
+.cm-s-light-1 .cm-atom {color: darkgreen;}
+.cm-s-light-1 .cm-number {color: darkgreen;}
+.cm-s-light-1 .cm-def,
+.cm-s-light-1 .cm-variable,
+.cm-s-light-1 .cm-punctuation,
+.cm-s-light-1 .cm-property,
+.cm-s-light-1 .cm-variable-2,
+.cm-s-light-1 .cm-variable-3,
+.cm-s-light-1 .cm-type {color: olive;}
+.cm-s-light-1 .cm-comment {color: darkgray }
+.cm-s-light-1 .cm-string,
+.cm-s-light-1 .cm-string-2 {color: darkgreen;}
+.cm-s-light-1 .syntax-error {border: solid 1px red}
+
+.cm-s-light-2.CodeMirror {background-color: transparent; color: black;}
+.cm-s-light-2 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-light-2 .cm-operator,
+.cm-s-light-2 .cm-keyword { }
+.cm-s-light-2 .cm-atom {color: red;}
+.cm-s-light-2 .cm-number {color: red;}
+.cm-s-light-2 .cm-def,
+.cm-s-light-2 .cm-variable,
+.cm-s-light-2 .cm-punctuation,
+.cm-s-light-2 .cm-property,
+.cm-s-light-2 .cm-variable-2,
+.cm-s-light-2 .cm-variable-3,
+.cm-s-light-2 .cm-type {color: violet;}
+.cm-s-light-2 .cm-comment {color: darkgray }
+.cm-s-light-2 .cm-string,
+.cm-s-light-2 .cm-string-2 {color: red;}
+.cm-s-light-2 .syntax-error {border: solid 1px red}
+
+.cm-s-light-3.CodeMirror {background-color: transparent; color: black;}
+.cm-s-light-3 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-light-3 .cm-operator,
+.cm-s-light-3 .cm-keyword { }
+.cm-s-light-3 .cm-atom {color: blue;}
+.cm-s-light-3 .cm-number {color: blue;}
+.cm-s-light-3 .cm-def,
+.cm-s-light-3 .cm-variable,
+.cm-s-light-3 .cm-punctuation,
+.cm-s-light-3 .cm-property,
+.cm-s-light-3 .cm-variable-2,
+.cm-s-light-3 .cm-variable-3,
+.cm-s-light-3 .cm-type {color: darkcyan;}
+.cm-s-light-3 .cm-comment {color: darkgray }
+.cm-s-light-3 .cm-string,
+.cm-s-light-3 .cm-string-2 {color: blue;}
+.cm-s-light-3 .syntax-error {border: solid 1px red}
+
+.cm-s-light-4.CodeMirror {background-color: transparent; color: black;}
+.cm-s-light-4 .CodeMirror-gutters {background-color: transparent; border-right: darkgray solid 1px;}
+.cm-s-light-4 .cm-operator,
+.cm-s-light-4 .cm-keyword { }
+.cm-s-light-4 .cm-atom {color: darkorange;}
+.cm-s-light-4 .cm-number {color: darkorange;}
+.cm-s-light-4 .cm-def,
+.cm-s-light-4 .cm-variable,
+.cm-s-light-4 .cm-punctuation,
+.cm-s-light-4 .cm-property,
+.cm-s-light-4 .cm-variable-2,
+.cm-s-light-4 .cm-variable-3,
+.cm-s-light-4 .cm-type {color: darkgreen;}
+.cm-s-light-4 .cm-comment {color: darkgray }
+.cm-s-light-4 .cm-string,
+.cm-s-light-4 .cm-string-2 {color: darkorange;}
+.cm-s-light-4 .syntax-error {border: solid 1px red}
